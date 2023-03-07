@@ -1,4 +1,4 @@
-# Rede-Neural-de-Regress-o-Geral
+# Rede-Neural-de-Regressão-Geral
 
 A GRNN é uma rede neural probabilistica baseada em memori. 
 
